@@ -1,0 +1,18 @@
+.containerr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.contenedor{
+    box-shadow: 0px 0px 20px grey;
+    padding: 1em;
+    margin-top: 5em;
+    text-align: center;
+}
+
+.boton-encabezado{
+
+    position: absolute;
+    left: 60%;
+    top: 9%;
+}
